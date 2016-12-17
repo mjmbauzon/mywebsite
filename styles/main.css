@@ -1,0 +1,44 @@
+
+body{
+	font-family: courier new;
+	background:	#02024b;/*#E6E6FA;*/
+	color: #ffffcc;
+}
+h1{
+	font-family: lucida sans;
+	font-weight: bold;
+	font-size: 28px;
+	color:#000066;
+	padding: 10px 15px;
+	margin: 0px 0px 0px 0px;
+	background: #f2f2f2;
+}
+h2{
+	font-family: courier new;
+	font-size: 15px;
+	color:#000066;
+	padding: 10px 15px;
+	margin: 0px 0px 0px 0px;
+	background: #f2f2f2;
+	border-radius:7px;
+}
+a{
+	color: #99ffff;
+}
+.email{
+	color: #ff0000;
+}
+head{
+	
+	
+}
+.bottomDescr{
+	
+	
+}
+.bottomDescr{
+	position: fixed; 
+	bottom: 0; 
+	width:100%; 
+	text-align: left;
+}
